@@ -1,0 +1,5 @@
+/produtos/listar [Publico]
+*Lista todos produtos,quantidade,valor
+/produtos/comprar [privado]-Somente com transacao aprovada
+
+/admin/ [privado]-
